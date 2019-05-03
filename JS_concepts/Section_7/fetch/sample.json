@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Abhishek",
+    "company": "HSPL",
+    "phone" : 132232323
+  },
+  {
+    "id": 2,
+    "name": "Aniket",
+    "company": "HSPL",
+    "phone" : 2323232
+  },
+  {
+    "id": 3,
+    "name": "Amol",
+    "company": "Dassult",
+    "phone" : 34343434
+  }
+]
